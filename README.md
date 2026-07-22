@@ -4,7 +4,6 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=nawabsakib5&label=Profile%20Views&color=34D399&style=for-the-badge" alt="profile views"/>
 <a href="https://www.linkedin.com/in/nawabsakib"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.facebook.com/nawabsakib58"><img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 <a href="mailto:nawabsakib5@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
