@@ -19,7 +19,7 @@ class Sakib:
     def __init__(self):
         self.name = "Mohammad Sakib Howlader"
         self.role = "Backend Developer"
-        self.stack = ["Python", "Django", "C#", "SQL"]
+        self.stack = ["Python", "Django", "C#", "SQL" , "mySQL" ]
         self.education = "CSE, Habibullah Bahar University College"
         self.currently_building = "Cash Management — a collaborative Django SaaS"
         self.interests = ["Edge AI hardware", "Football (Real Madrid)"]
